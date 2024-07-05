@@ -1,4 +1,4 @@
-# Next Character Prediction
+# Next Character Prediction Using RNNs
 
 This project is part of the ES335 Machine Learning course and focuses on building a model for predicting the next character in a sequence of text using PyTorch. The model is trained on text data and utilizes embeddings and neural networks to make predictions.
 
